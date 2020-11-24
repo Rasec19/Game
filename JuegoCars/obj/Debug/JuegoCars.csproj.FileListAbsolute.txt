@@ -1,0 +1,12 @@
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\bin\Debug\JuegoCars.exe.config
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\bin\Debug\JuegoCars.exe
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\bin\Debug\JuegoCars.pdb
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\bin\Debug\Graphics3DS.dll
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.csprojAssemblyReference.cache
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.Pista.resources
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.Properties.Resources.resources
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.csproj.GenerateResource.cache
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.csproj.CoreCompileInputs.cache
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.csproj.CopyComplete
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.exe
+C:\Users\rasec\source\repos\JuegoCars\JuegoCars\obj\Debug\JuegoCars.pdb
