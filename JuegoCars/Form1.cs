@@ -97,7 +97,22 @@ namespace JuegoCars
             timerGenObjCar1.Stop();
             timerCar2.Stop();
             timerGenObjCar2.Stop();
-            MessageBox.Show("Tu juego ha terminado. Presiona R para comenzar de nuevo", "Tu juego se termino", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Tu juego ha terminado.", "Tu juego se termino", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            if (puntaje > puntajeCar2)
+            {
+                String ganador = "Player 1";
+                MessageBox.Show("El ganador de la carrera es: " + ganador + ", presioan R para jugar de nuevo", "Ganador "+ganador, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else if (puntajeCar2 > puntaje)
+            {
+                String ganador = "Player 2";
+                MessageBox.Show("El ganador de la carrera es: " + ganador + ", presioan R para jugar de nuevo", "Ganador "+ganador, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else 
+            {
+                MessageBox.Show("Es un empate", "Empate", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
 
         }
         //Metodo que me va a detectar las colisiones con los cubos
