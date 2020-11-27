@@ -41,10 +41,10 @@ namespace JuegoCars
             //Creamos una brocha para rellenar el cubo
             Brush relleno = new SolidBrush(RGB);
             // Dibujar el controno del cubo (obstaculo que chocara con el auto)
-            g.DrawRectangle(contorno, X, Y, 27+inflateX, 27+inflateY);
+            //g.DrawRectangle(contorno, X, Y, 27+inflateX, 27+inflateY);
             
-            puntos[0] = new Point3D(X, Y, Z + 10);
-            puntos[1] = new Point3D(X, Y, Z + 10);
+            puntos[0] = new Point3D(X+10, Y, Z + 10);
+            puntos[1] = new Point3D(X+100, Y, Z + 10);
             puntos[2] = new Point3D(X, Y, Z);
             puntos[3] = new Point3D(X, Y, Z);
             puntos[4] = new Point3D(X, Y, Z);
